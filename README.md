@@ -1,3 +1,7 @@
+## Тестовое задание Авито
+### Подробное описание:
+https://github.com/avito-tech/tech-internship/blob/main/Tech%20Internships/Backend/Backend-trainee-assignment-winter-2025/Backend-trainee-assignment-winter-2025.md
+
 ## Структура проекта
 
 Данный проект на языке Go собирается с помощью Dockerfile. Также вместе с проектом в одной докер контейнере запускается
